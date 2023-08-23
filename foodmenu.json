@@ -1,0 +1,14 @@
+{
+  "dish_name": [
+    "Classic Cheeseburger",
+    "Crispy Chicken Sandwich",
+    "Margherita Pizza",
+    "Spaghetti Bolognese",
+    "Chicken Alfredo",
+    "Garlic Bread",
+    "Sushi Roll Combo",
+    "Tempura Shrimp",
+    "Miso Soup"
+  ],
+  "price": [8.99, 9.49, 11.99, 12.99, 14.49, 3.99, 18.99, 9.99, 2.99]
+}
